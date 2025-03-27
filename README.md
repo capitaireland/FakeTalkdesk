@@ -1,2 +1,2 @@
-# Training Sim
+# Training Simulator
 
